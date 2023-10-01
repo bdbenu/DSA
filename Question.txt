@@ -1,0 +1,22 @@
+1- Key pair
+2- Find pivot index
+3-Missing Number
+4-Remove duplicate from sorted array
+5-Sort color
+6-Movin all Negative numberto the left side of an aray.
+7-Maximum Avrage subarray 1
+8-Find duplicate Number
+9-Missing Elemenet from an array with duplicate 
+10-Find First Repeating elelemt
+11- Common element in 3 sotred array
+12- Wave print matrix
+
+1 K -Diff pair in an array
+2 Find K - closest elelemt
+3- Exponential search
+5- Unbounded binary search
+6- Pointer partition problem 
+7-Aggresive cows
+8-EKO SPOJ
+9-PRATA SPOJ
+10 Find SQRT of integer N Using Binary search with K ponter  
